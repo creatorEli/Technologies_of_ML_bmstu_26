@@ -1,0 +1,1 @@
+# Repository for lab work and tests in the discipline "Machine Learning Technologies"
